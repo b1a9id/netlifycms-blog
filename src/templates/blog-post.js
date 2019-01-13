@@ -8,8 +8,6 @@ import Content, {HTMLContent} from '../components/Content'
 import {
 	TwitterShareButton,
 	TwitterIcon,
-	FacebookShareButton,
-	FacebookIcon
 } from 'react-share';
 
 export const BlogPostTemplate = (
